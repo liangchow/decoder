@@ -1,16 +1,16 @@
-numpy>=1.22.4
-pandas>=1.3.0
-scikit-learn
+numpy>=1.24.0
+pandas>=1.5.0
+scikit-learn>=1.3.0
 pytesseract
 geonamescache
-spacy
+spacy>=3.5.0
 en_core_web_lg @ https://github.com/explosion/spacy-models/releases/download/en_core_web_lg-3.0.0/en_core_web_lg-3.0.0-py3-none-any.whl
-tensorflow-cpu
-keras
+tensorflow>=2.13.0
+keras>=2.13.0
 pdf2image
-opencv-python
+opencv-python>=4.8.0
 markupsafe>=2.0.0
-Pillow
-azure-storage-blob
-h5py
-openpyxl
+Pillow>=9.0.0
+azure-storage-blob>=12.0.0
+h5py>=3.7.0
+openpyxl>=3.0.0
